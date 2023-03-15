@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhanashri&langs_count=8&theme=algolia" alt="iamdhanashri's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdhanashri" alt="lokeshahire's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdhanashri" alt="iamdhanashri's GitHub stats" />
 
 </div>
 
